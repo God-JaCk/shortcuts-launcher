@@ -4,3 +4,9 @@
 [![Github All Releases download count](https://img.shields.io/github/downloads/flybywiresim/a32nx/total.svg?style=flat)](https://github.com/flybywiresim/a32nx/releases/latest)
 # Shortcuts Launcher
 Retrouver des centaines de  raccourcis via l'application Shortcuts de votre appareil Apple. Disponible avec iOS 13 et version ultérieur. Question assez demandé: Qu’est-ce qu’un raccourci ? Un raccourci vous permet d’effectuer rapidement une ou plusieurs tâches dans vos apps. L’app Raccourcis vous permet de créer rapidement vos propres raccourcis avec plusieurs étapes. Par exemple, créez un raccourci « Surf » qui récupère le rapport sur le surf, vous donne une estimation de l’heure d’arrivée à la plage et lance votre playlist de surf. Shortcuts Launcher vous permet de découvrire et même d'ajouter à votre liste des raccourcis officiel et développer par notre équipe!
+ 
+ ```
+ Shortcuts disponible sur le forum: 37
+ iOS disponible: iOS 13 et version ultérieur
+ Licence Std. Valide
+ ```
