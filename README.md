@@ -1,1 +1,1 @@
-# launcher-gamejack
+# Launcher GameJack
